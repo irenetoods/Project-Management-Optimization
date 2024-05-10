@@ -7,8 +7,6 @@
 3. Tang Kit Lim
 4. Too Ai Leng
 
-- Data Science Groupwork 2021
-
 
 #### Visit this link for the presentation:
 
